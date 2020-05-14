@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ProjetQuestionnaire.PageQuestionnaire">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition> 
+                    <RowDefinition></RowDefinition> 
+                    <RowDefinition></RowDefinition> 
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition ></ColumnDefinition> 
+                    <ColumnDefinition ></ColumnDefinition> 
+                </Grid.ColumnDefinitions>
+
+                <Label x:Name="labelQuestion" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" HorizontalOptions="Center" HeightRequest="100" ></Label>
+                <Label x:Name="Reponse1" Text="Réponse 1" Grid.Row="2" Grid.Column="0" HorizontalOptions="CenterAndExpand"></Label>
+                <Label x:Name="Reponse2" Text="Réponse 2" Grid.Row="2" Grid.Column="1" HorizontalOptions="CenterAndExpand"></Label>
+                <Label x:Name="Reponse3" Text="Réponse 3" Grid.Row="4" Grid.Column="0" HorizontalOptions="CenterAndExpand"></Label>
+                <Label x:Name="Reponse4" Text="Réponse 4" Grid.Row="4" Grid.Column="1" HorizontalOptions="CenterAndExpand"></Label>
+                <CheckBox  Grid.Row="3" Grid.Column="0" HorizontalOptions="CenterAndExpand"></CheckBox>
+                <CheckBox Grid.Row="3" Grid.Column="1" HorizontalOptions="CenterAndExpand"></CheckBox>
+                <CheckBox Grid.Row="5" Grid.Column="0" HorizontalOptions="CenterAndExpand"></CheckBox>
+                <CheckBox Grid.Row="5" Grid.Column="1" HorizontalOptions="CenterAndExpand"></CheckBox>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

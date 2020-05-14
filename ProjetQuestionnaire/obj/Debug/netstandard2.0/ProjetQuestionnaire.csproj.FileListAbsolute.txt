@@ -1,0 +1,30 @@
+C:\Users\hugoc\Documents\BTS SIO\PPE\Xamarin\Exercice\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\bin\Debug\netstandard2.0\ProjetQuestionnaire.deps.json
+C:\Users\hugoc\Documents\BTS SIO\PPE\Xamarin\Exercice\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\bin\Debug\netstandard2.0\ProjetQuestionnaire.dll
+C:\Users\hugoc\Documents\BTS SIO\PPE\Xamarin\Exercice\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hugoc\Documents\BTS SIO\PPE\Xamarin\Exercice\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hugoc\Documents\BTS SIO\PPE\Xamarin\Exercice\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\obj\Debug\netstandard2.0\PageCandidats.xaml.g.cs
+C:\Users\hugoc\Documents\BTS SIO\PPE\Xamarin\Exercice\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\obj\Debug\netstandard2.0\ProjetQuestionnaire.AssemblyInfoInputs.cache
+C:\Users\hugoc\Documents\BTS SIO\PPE\Xamarin\Exercice\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\obj\Debug\netstandard2.0\ProjetQuestionnaire.AssemblyInfo.cs
+C:\Users\hugoc\Documents\BTS SIO\PPE\Xamarin\Exercice\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\obj\Debug\netstandard2.0\ProjetQuestionnaire.csproj.CoreCompileInputs.cache
+C:\Users\hugoc\Documents\BTS SIO\PPE\Xamarin\Exercice\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\bin\Debug\netstandard2.0\ref\ProjetQuestionnaire.dll
+C:\Users\hugoc\Documents\BTS SIO\PPE\Xamarin\Exercice\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\bin\Debug\netstandard2.0\ProjetQuestionnaire.pdb
+C:\Users\hugoc\Documents\BTS SIO\PPE\Xamarin\Exercice\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hugoc\Documents\BTS SIO\PPE\Xamarin\Exercice\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\obj\Debug\netstandard2.0\ProjetQuestionnaire.dll
+C:\Users\hugoc\Documents\BTS SIO\PPE\Xamarin\Exercice\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\obj\Debug\netstandard2.0\ref\ProjetQuestionnaire.dll
+C:\Users\hugoc\Documents\BTS SIO\PPE\Xamarin\Exercice\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\obj\Debug\netstandard2.0\ProjetQuestionnaire.pdb
+C:\Users\hugoc\Documents\BTS SIO\PPE\Xamarin\Exercice\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\obj\Debug\netstandard2.0\ProjetQuestionnaire.csprojAssemblyReference.cache
+C:\Users\hugoc\source\repos\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\bin\Debug\netstandard2.0\ProjetQuestionnaire.deps.json
+C:\Users\hugoc\source\repos\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\bin\Debug\netstandard2.0\ProjetQuestionnaire.dll
+C:\Users\hugoc\source\repos\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\bin\Debug\netstandard2.0\ref\ProjetQuestionnaire.dll
+C:\Users\hugoc\source\repos\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\bin\Debug\netstandard2.0\ProjetQuestionnaire.pdb
+C:\Users\hugoc\source\repos\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hugoc\source\repos\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hugoc\source\repos\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\obj\Debug\netstandard2.0\PageCandidats.xaml.g.cs
+C:\Users\hugoc\source\repos\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\obj\Debug\netstandard2.0\ProjetQuestionnaire.AssemblyInfoInputs.cache
+C:\Users\hugoc\source\repos\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\obj\Debug\netstandard2.0\ProjetQuestionnaire.AssemblyInfo.cs
+C:\Users\hugoc\source\repos\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\obj\Debug\netstandard2.0\ProjetQuestionnaire.dll
+C:\Users\hugoc\source\repos\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\obj\Debug\netstandard2.0\ref\ProjetQuestionnaire.dll
+C:\Users\hugoc\source\repos\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\obj\Debug\netstandard2.0\ProjetQuestionnaire.pdb
+C:\Users\hugoc\source\repos\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\obj\Debug\netstandard2.0\ProjetQuestionnaire.csprojAssemblyReference.cache
+C:\Users\hugoc\source\repos\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\obj\Debug\netstandard2.0\Pagecategories.xaml.g.cs
+C:\Users\hugoc\source\repos\ProjetQuestionnaire\ProjetQuestionnaire\ProjetQuestionnaire\obj\Debug\netstandard2.0\PageQuestionnaire.xaml.g.cs
